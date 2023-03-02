@@ -1,2 +1,2 @@
 # iris_flowers
-[app](http://localhost:8501/)
+that's my a[pp](https://lavou-iris-flowers-st-app-logipt.streamlit.app/) hehe 
